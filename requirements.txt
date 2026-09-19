@@ -1,0 +1,52 @@
+# Core framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# Database
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+alembic==1.14.1
+
+# Redis
+redis==5.2.1
+
+# Celery
+celery[redis]==5.4.0
+flower==2.0.1
+
+# Auth
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Configuration
+pydantic==2.10.4
+pydantic-settings==2.7.1
+email-validator==2.3.0
+
+# PDF Processing
+PyMuPDF==1.25.3
+pikepdf==9.4.2
+pdfplumber==0.11.4
+
+# OCR
+pytesseract==0.3.13
+Pillow==11.1.0
+
+# Image processing
+opencv-python-headless==4.10.0.84
+numpy==2.2.1
+
+# File validation
+python-magic==0.4.27
+
+# HTTP client (for tests & adapters)
+httpx==0.28.1
+
+# Testing
+pytest==8.3.4
+pytest-cov==6.0.0
+pytest-asyncio==0.25.0
+
+# Utilities
+python-dateutil==2.9.0

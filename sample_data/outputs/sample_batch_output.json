@@ -1,0 +1,181 @@
+{
+  "items": [
+    {
+      "question_id": "6f70f20d-59c4-4b13-a5aa-b28263675244",
+      "document_id": "85174d21-fbc2-43b7-8870-9dc50c3ad9e1",
+      "question_number": "1",
+      "question_text": "hat is the primary organelle responsible for ATP production in eukaryotic cells?",
+      "question_type": "MCQ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nucleus",
+          "image_url": null
+        },
+        {
+          "label": "B",
+          "text": "Mitochondria",
+          "image_url": null
+        },
+        {
+          "label": "C",
+          "text": "Ribosome",
+          "image_url": null
+        },
+        {
+          "label": "D",
+          "text": "Endoplasmic Reticulum",
+          "image_url": null
+        }
+      ],
+      "answer": {
+        "value": "WHAT IS THE PRIMARY ORGANELLE RESPONSIBLE FOR ATP PRODUCTION IN EUKARYOTIC CELLS?",
+        "source": "SAME_DOC",
+        "match_confidence": 0.8,
+        "review_required": false
+      },
+      "source_pages": [
+        1
+      ],
+      "extraction_confidence": 0.9325,
+      "review_required": false,
+      "review_reason": null,
+      "images": [],
+      "created_at": "2026-09-19T17:25:07.579943Z"
+    },
+    {
+      "question_id": "5ff43232-9987-4946-9e23-756a817bb0c2",
+      "document_id": "85174d21-fbc2-43b7-8870-9dc50c3ad9e1",
+      "question_number": "2",
+      "question_text": "hich chemical element has the highest thermal conductivity at room temperature?",
+      "question_type": "MCQ",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diamond (Carbon)",
+          "image_url": null
+        },
+        {
+          "label": "B",
+          "text": "Silver",
+          "image_url": null
+        },
+        {
+          "label": "C",
+          "text": "Copper",
+          "image_url": null
+        },
+        {
+          "label": "D",
+          "text": "Aluminum",
+          "image_url": null
+        }
+      ],
+      "answer": {
+        "value": "WHICH CHEMICAL ELEMENT HAS THE HIGHEST THERMAL CONDUCTIVITY AT ROOM TEMPERATURE?",
+        "source": "SAME_DOC",
+        "match_confidence": 0.8,
+        "review_required": false
+      },
+      "source_pages": [
+        1
+      ],
+      "extraction_confidence": 0.9325,
+      "review_required": false,
+      "review_reason": null,
+      "images": [],
+      "created_at": "2026-09-19T17:25:07.583001Z"
+    },
+    {
+      "question_id": "b685ac7f-9f57-4eb7-90ca-08f3710d7727",
+      "document_id": "85174d21-fbc2-43b7-8870-9dc50c3ad9e1",
+      "question_number": "3",
+      "question_text": "tate True or False:\nSound waves travel faster in water than in air.",
+      "question_type": "TRUE_FALSE",
+      "options": [],
+      "answer": {
+        "value": "STATE TRUE OR FALSE:",
+        "source": "SAME_DOC",
+        "match_confidence": 0.8,
+        "review_required": false
+      },
+      "source_pages": [
+        1
+      ],
+      "extraction_confidence": 0.8925,
+      "review_required": false,
+      "review_reason": null,
+      "images": [],
+      "created_at": "2026-09-19T17:25:07.589596Z"
+    },
+    {
+      "question_id": "ccf061aa-0eff-40cd-9752-e139f1f78c7b",
+      "document_id": "85174d21-fbc2-43b7-8870-9dc50c3ad9e1",
+      "question_number": "4",
+      "question_text": "olve for x in the quadratic equation: x^2 - 7x + 12 = 0.",
+      "question_type": "MCQ",
+      "options": [
+        {
+          "label": "A",
+          "text": "x = 3, 4",
+          "image_url": null
+        },
+        {
+          "label": "B",
+          "text": "x = 2, 6",
+          "image_url": null
+        },
+        {
+          "label": "C",
+          "text": "x = -3, -4",
+          "image_url": null
+        },
+        {
+          "label": "D",
+          "text": "x = 1, 12",
+          "image_url": null
+        }
+      ],
+      "answer": {
+        "value": "SOLVE FOR X IN THE QUADRATIC EQUATION: X^2 - 7X + 12 = 0.",
+        "source": "SAME_DOC",
+        "match_confidence": 0.8,
+        "review_required": false
+      },
+      "source_pages": [
+        1
+      ],
+      "extraction_confidence": 0.9325,
+      "review_required": false,
+      "review_reason": null,
+      "images": [],
+      "created_at": "2026-09-19T17:25:07.595176Z"
+    },
+    {
+      "question_id": "75c78fb3-58d8-43f0-ad13-d5baadca43fc",
+      "document_id": "85174d21-fbc2-43b7-8870-9dc50c3ad9e1",
+      "question_number": "5",
+      "question_text": "riefly explain the law of conservation of energy and give one real-world example.",
+      "question_type": "UNKNOWN",
+      "options": [],
+      "answer": {
+        "value": "BRIEFLY EXPLAIN THE LAW OF CONSERVATION OF ENERGY AND GIVE ONE REAL-WORLD EXAMPLE.",
+        "source": "SAME_DOC",
+        "match_confidence": 0.8,
+        "review_required": false
+      },
+      "source_pages": [
+        1
+      ],
+      "extraction_confidence": 0.9325,
+      "review_required": false,
+      "review_reason": null,
+      "images": [],
+      "created_at": "2026-09-19T17:25:07.599241Z"
+    }
+  ],
+  "total": 5,
+  "page": 1,
+  "page_size": 20,
+  "total_pages": 1
+}

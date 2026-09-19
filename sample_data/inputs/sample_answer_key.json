@@ -1,0 +1,21 @@
+{
+  "exam_id": "MOCK-2026-01",
+  "total_questions": 3,
+  "answers": [
+    {
+      "question_number": "1",
+      "correct_option": "B",
+      "explanation": "Mitochondria are known as the powerhouse of the cell because they generate most of the cell's supply of adenosine triphosphate (ATP)."
+    },
+    {
+      "question_number": "2",
+      "correct_option": "C",
+      "explanation": "Mars is often referred to as the Red Planet due to its reddish appearance caused by iron oxide on its surface."
+    },
+    {
+      "question_number": "3",
+      "correct_option": "B",
+      "explanation": "Factoring x^2 - 5x + 6 = 0 yields (x - 2)(x - 3) = 0, so x = 2 and x = 3."
+    }
+  ]
+}
